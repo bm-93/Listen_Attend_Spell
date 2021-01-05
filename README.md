@@ -4,4 +4,6 @@ Listen, Attend and Spell (LAS), is a neural network that learns to transcribe sp
 
 # RESULTING ATTENTION PLOT
 Near convergence of training, the attention curve looks as below:
+
+
 ![---](attention_plot.jpg)
